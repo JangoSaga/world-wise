@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "f134",
+      "cityName": "Tamia",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-11-11T08:35:06.977Z",
+      "notes": "",
+      "position": {
+        "lat": "22.33200949192114",
+        "lng": "78.57421875000001"
+      }
+    },
+    {
+      "id": "fbf3",
+      "cityName": "Ta’if",
+      "country": "Saudi Arabia",
+      "emoji": "🇸🇦",
+      "date": "2024-11-11T08:35:32.048Z",
+      "notes": "",
+      "position": {
+        "lat": "22.620405992441203",
+        "lng": "42.5390625"
+      }
+    }
+  ]
+}
